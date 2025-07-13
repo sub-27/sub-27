@@ -9,9 +9,10 @@ I am a dedicated **Software Engineer** with a strong foundation in modern web de
 ## 🛠️ Skills & Technologies
 
 **Programming Languages**
+- HTML5
+- CSS3
 - JavaScript
 - TypeScript
-- Python
 - SQL
 
 **Frameworks & Libraries**
@@ -21,7 +22,6 @@ I am a dedicated **Software Engineer** with a strong foundation in modern web de
 - Next.js
 - Node.js
 - Express
-- FastAPI
 
 **Databases & APIs**
 - PostgreSQL
