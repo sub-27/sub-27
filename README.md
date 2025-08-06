@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a dedicated **Software Engineer** with a strong foundation in modern web development and backend technologies. My work focuses on delivering robust, scalable, and maintainable solutions that drive meaningful outcomes for users and organizations.
+I am a **Software Engineer** with a strong foundation in modern web development. My work focuses on delivering robust, scalable, and maintainable solutions that drive meaningful outcomes for users and organizations.
 
 ---
 
@@ -13,26 +13,12 @@ I am a dedicated **Software Engineer** with a strong foundation in modern web de
 - CSS3
 - JavaScript
 - TypeScript
-- SQL
 
 **Frameworks & Libraries**
 - React
 - React Native
 - Redux
-- Next.js
 - Node.js
-- Express
-
-**Databases & APIs**
-- PostgreSQL
-- SQLite
-- MongoDB
-- GraphQL
-
-**DevOps & Cloud**
-- GitHub Actions
-- Docker
-- AWS
 
 ---
 
@@ -46,7 +32,6 @@ I am a dedicated **Software Engineer** with a strong foundation in modern web de
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/subodh-awate)
-- [Twitter](https://x.com/dev_sub27)
 - [Personal Website](https://www.subodhawate.com/)
 - [Email](mailto:sbhawt@gmail.com)
 
