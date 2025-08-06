@@ -19,6 +19,7 @@ I am a **Software Engineer** with a strong foundation in modern web development.
 - React Native
 - Redux
 - Node.js
+- Tailwind CSS
 
 ---
 
