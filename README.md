@@ -16,9 +16,10 @@ I am a **Software Engineer** with a strong foundation in modern web development.
 
 **Frameworks & Libraries**
 - React
+- Next.js
+- Node.js
 - React Native
 - Redux
-- Node.js
 - Tailwind CSS
 
 ---
